@@ -1,6 +1,6 @@
 # Data Science for Business
 ## Exercise1
-Requred commands to clone and run ths repostirty locally
+Requred commands to clone and run this repostirty locally
 
 ```
 git clone git@github.com:mb-uninsubria/exercise1.git
